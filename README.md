@@ -129,7 +129,7 @@
 
 # LINK
 
-* Click here https://github.com/Fogo9/ChineseZodiac.git to access the Github page for this project.
+* Click here https://github.com/Fogo9/ChineseZodiacSign.git to access the Github page for this project.
 
 <br />
 
