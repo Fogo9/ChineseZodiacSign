@@ -2,7 +2,7 @@
 
 # Information
 
-* **Calculates discounted flight tickets by entering age and km information.**
+* **You can find out your Chinese zodiac sign by entering your year of birth.**
 
 # Technologies Used
 
