@@ -1,14 +1,14 @@
 # **CHINESE ZODIAC**
 
-# Information
+## INFORMATION
 
 * **You can find out your Chinese zodiac sign by entering your year of birth.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Codes
+## CODES
 
 ```Java
 
@@ -125,13 +125,13 @@
 
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/ChineseZodiacSign.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
