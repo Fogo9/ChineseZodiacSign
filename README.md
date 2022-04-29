@@ -8,8 +8,6 @@
 
 * **JAVA**
 
-<br />
-
 # Codes
 
 ```Java
